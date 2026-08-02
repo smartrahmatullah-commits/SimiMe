@@ -1,4 +1,4 @@
-# Simi_Me
+# SimiMe
 
 **Founder:** Mohammad Rahmatullah
 
