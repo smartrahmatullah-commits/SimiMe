@@ -6,7 +6,7 @@
 
 ## 🚀 Mission
 
-Simi_Me is building the smartest AI the world has ever seen — AI that thinks, learns, and adapts like never before.
+SimiMe is building the smartest AI the world has ever seen — AI that thinks, learns, and adapts like never before.
 
 ---
 
