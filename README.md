@@ -1,2 +1,31 @@
-# Simi-_Me
-Simi_Me { the founder :_Mohammad rahmatullah. } the company will having capability to creating the smart-ai then ever!
+# Simi_Me
+
+**Founder:** Mohammad Rahmatullah
+
+---
+
+## 🚀 Mission
+
+Simi_Me is building the smartest AI the world has ever seen — AI that thinks, learns, and adapts like never before.
+
+---
+
+## 🧠 What We Do
+
+We are creating intelligent systems that push the boundaries of what AI can achieve.
+
+---
+
+## 📅 Founded
+
+August 2026
+
+---
+
+## 👤 Founder
+
+**Mohammad Rahmatullah** — Building the future of AI, one line of code at a time.
+
+---
+
+*More coming soon...*
